@@ -1,0 +1,50 @@
+
+.form-check {
+  padding: 10px;
+  margin-top: 0px;
+  margin-right: 30px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+}
+ 
+.Form {
+  padding: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  background-color: #343a40!important;
+  color: white;
+}
+body {
+  background-color: #343a40!important;
+}
+
+#submitButton{
+  padding: 10px;
+  margin-top: 0px;
+  margin-right: 30px;
+  margin-bottom: 10px;
+  margin-left: 30px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: #343a40!important;
+  color: white;
+}
+
+#exampleFormControlInput1 {
+  background-color: #343a40!important;
+  color: white;
+}
+
+#exampleFormControlSelect1 {
+  background-color: #343a40!important;
+}
+
+.form-control{
+  background-color: #343a40!important;
+  color: white; 
+}
