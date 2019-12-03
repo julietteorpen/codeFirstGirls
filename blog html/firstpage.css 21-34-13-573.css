@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height:80vh;
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+
+  header ul {
+    background-color:rgba(69, 97, 69, 0.596);
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    list-style-type: none; /* this removes the bullet points for li */
+    padding: 10px;
+    outline: 1px solid black;
+  }
+  
+
+  main {
+
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     min-height:85vh;
+     border: 1px solid rgb(177, 118, 118); /*for easy visualisation */
+  }
+  .box {
+    background-color: lightcoral;
+    width: 200px;
+    border: 1px black solid;
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  footer {
+    background-color: green;
+   
+  }
+  
